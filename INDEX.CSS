@@ -1,0 +1,24 @@
+<style>
+  form {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    width: 60%;
+    margin-right: 10px;
+  }
+
+  button[type="submit"] {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: lightblue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+</style>
